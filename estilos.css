@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: bisque;
+}
+
+.t1{
+    background-color: rgb(231, 161, 158);
+    text-align: center;
+    margin-top: 0px;
+    padding: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.t2{
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
+
+img:hover{
+    border-radius: 10px;
+    transition: 2s;
+    background-color: rgb(231, 161, 158);
+}
+
+.t3{
+    background-color: rgb(231, 161, 158);
+    text-align: center;
+    margin-top: 50px;
+    padding: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
